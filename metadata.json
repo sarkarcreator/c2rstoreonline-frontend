@@ -1,0 +1,6 @@
+{
+  "name": "C2R Store Online",
+  "description": "AI tools, SaaS discovery, business software comparisons, verified deals, guides, and free generative AI tools with an affiliate revenue platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["NEXTJS_FRONTEND_HTTP_API_CLIENT"]
+}
